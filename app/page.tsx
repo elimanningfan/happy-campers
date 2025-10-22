@@ -19,7 +19,7 @@ export default function HomePage() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('/images/original-happy-campers/Bend RV Resort Camp Shoot-01.jpg')`,
+            backgroundImage: `url('/images/original-happy-campers/Pacific Shores -6.jpg')`,
           }}
         >
           <div className="absolute inset-0 bg-black/40" />
