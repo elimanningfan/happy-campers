@@ -1,6 +1,7 @@
 # Original Happy Campers Photos Database
 *Created: 2025-10-22*
-*Total Images: 24 original photos*
+*Updated: 2025-10-22 (Added Pacific Shores photos)*
+*Total Images: 30 original photos*
 *Copyright: Happy Campers RV Rentals - Full usage rights*
 
 ## Quick Category Reference
@@ -13,6 +14,9 @@
 - **Fire Pit Gatherings**: 4 images
 - **Pet-Friendly**: 1 image
 - **On the Road**: 7 images
+- **Oregon Coast/Lighthouses**: 6 images
+- **RV Interior Views**: 1 image
+- **Aerial Photography**: 2 images
 
 ---
 
@@ -370,7 +374,87 @@
 
 ---
 
-## Total Downloaded: 24 original photos
-## File Sizes: 274 MB total (high-resolution originals)
-## Categories: 8 unique categories
+## Pacific Shores Oregon Coast Photos (6 images)
+
+### Image 25
+**Original Filename:** Pacific Shores -1.jpg
+
+**New SEO Filename:** `rv-ocean-view-adirondack-chairs-pacific-shores-oregon-coast.jpg`
+
+**New URL:** `/images/rv-ocean-view-adirondack-chairs-pacific-shores-oregon-coast.jpg`
+
+**Categories:** Oregon Coast, RV Parks, Coastal Camping, Ocean Views, Luxury RV Resorts
+
+**Description:** Stunning coastal RV camping scene at Pacific Shores Motorcoach Resort on the Oregon Coast featuring a luxury Class A motorhome with blue striping parked alongside wooden Adirondack chairs overlooking the Pacific Ocean. Wind-swept shore pines frame the view of the rocky coastline and distant lighthouse. The terraced stone wall and manicured landscaping showcase the premium amenities of this coastal RV destination, just 3 hours from Bend. Perfect for illustrating Oregon Coast RV trips available with Happy Campers RV rentals.
+
+---
+
+### Image 26
+**Original Filename:** Pacific Shores -2.jpg
+
+**New SEO Filename:** `adirondack-chairs-lighthouse-view-oregon-coast-rv-camping.jpg`
+
+**New URL:** `/images/adirondack-chairs-lighthouse-view-oregon-coast-rv-camping.jpg`
+
+**Categories:** Oregon Coast, Lighthouses, Scenic Views, Outdoor Living, Coastal Destinations
+
+**Description:** Romantic coastal viewpoint with two Adirondack chairs positioned on a stone terrace overlooking the Pacific Ocean, with a historic Oregon lighthouse visible on a rocky headland in the distance. Wind-sculpted shore pines and yellow flowering ice plant add natural beauty to the scene. The terraced stone wall provides windbreak and framing for this idyllic RV camping spot at Pacific Shores Motorcoach Resort. Ideal hero image for Oregon Coast RV vacation marketing from Happy Campers.
+
+---
+
+### Image 27
+**Original Filename:** Pacific Shores -3.jpg
+
+**New SEO Filename:** `luxury-rv-pacific-ocean-view-oregon-coast-camping.jpg`
+
+**New URL:** `/images/luxury-rv-pacific-ocean-view-oregon-coast-camping.jpg`
+
+**Categories:** RV Exteriors, Class A RVs, Oregon Coast, Coastal Camping, Ocean Views
+
+**Description:** Professional photograph showcasing a luxury Class A motorhome parked at a premium coastal campsite with expansive Pacific Ocean views. The RV's side mirror is prominent in the foreground, with Adirondack chairs and stone terrace creating an inviting outdoor living space. A lighthouse sits on the rocky coastline in the distance, with windswept shore pines and blue ocean completing the classic Oregon Coast scene. Perfect for demonstrating the scenic destinations accessible with Happy Campers RV rentals from Bend to the coast.
+
+---
+
+### Image 28
+**Original Filename:** Pacific Shores -4.jpg
+
+**New SEO Filename:** `rv-interior-captain-chairs-ocean-view-lighthouse-oregon-coast.jpg`
+
+**New URL:** `/images/rv-interior-captain-chairs-ocean-view-lighthouse-oregon-coast.jpg`
+
+**Categories:** RV Interiors, Luxury RVs, Driver's Area, Ocean Views, Class A Interior
+
+**Description:** Breathtaking interior view from a luxury Class A motorhome cockpit featuring premium tan leather captain's chairs with high backs, modern dashboard with large display screen, and floor-to-ceiling windshield framing a spectacular Pacific Ocean and lighthouse view. Wind-sculpted shore pines and rocky coastline are visible through the expansive glass, demonstrating the mobile luxury and incredible vantage points possible with high-end RV travel. This stunning image showcases the premium comfort and unbeatable views available in Happy Campers' Class A RV rentals on Oregon Coast adventures.
+
+---
+
+### Image 29
+**Original Filename:** Pacific Shores -5.jpg
+
+**New SEO Filename:** `oregon-coast-lighthouse-aerial-rocky-headland-pacific-ocean.jpg`
+
+**New URL:** `/images/oregon-coast-lighthouse-aerial-rocky-headland-pacific-ocean.jpg`
+
+**Categories:** Oregon Coast, Lighthouses, Aerial Photography, Scenic Views, Coastal Destinations
+
+**Description:** Stunning aerial photograph of a historic Oregon Coast lighthouse perched on a dramatic rocky headland surrounded by turquoise Pacific Ocean waters. White waves crash against dark volcanic rocks, with green grass and a winding pathway leading to the white lighthouse tower. A parking area with visitors' vehicles is visible, showing this lighthouse as an accessible destination for RV travelers. The dramatic coastal scenery perfectly illustrates the incredible sightseeing opportunities along Highway 101 available to Happy Campers RV rental customers exploring the Oregon Coast from Bend.
+
+---
+
+### Image 30
+**Original Filename:** Pacific Shores -6.jpg
+
+**New SEO Filename:** `pacific-shores-motorcoach-resort-aerial-oregon-coast-rv-park.jpg`
+
+**New URL:** `/images/pacific-shores-motorcoach-resort-aerial-oregon-coast-rv-park.jpg`
+
+**Categories:** RV Parks, Oregon Coast, Aerial Photography, Coastal Camping, RV Resorts, Luxury Camping
+
+**Description:** Spectacular aerial photograph of Pacific Shores Motorcoach Resort, a premium coastal RV park on the Oregon Coast, showing rows of luxury motorhomes and RVs overlooking the Pacific Ocean. The well-organized resort features paved roads, full hookup sites, and is nestled between dense coastal forest and pristine sandy beaches. The surrounding town and dramatic coastal mountains are visible in the background. This bird's-eye view perfectly showcases the premier RV destination available for Happy Campers rental customers seeking a luxury Oregon Coast camping experience just hours from Bend, with easy access to beaches, lighthouses, and coastal attractions.
+
+---
+
+## Total Downloaded: 30 original photos
+## File Sizes: 311 MB total (high-resolution originals)
+## Categories: 11 unique categories
 ## Storage: ~/public/images/original-happy-campers/
