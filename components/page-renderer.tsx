@@ -14,7 +14,7 @@ import {
   CTABlockContent,
   FeaturesBlockContent
 } from '@/lib/types/page';
-import { rvData } from '@/lib/data/rvData';
+import { rvData } from '@/lib/rv-data';
 import { cn } from '@/lib/utils';
 
 // Page Renderer Component

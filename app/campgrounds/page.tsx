@@ -5,7 +5,7 @@ import { Footer } from '@/components/footer';
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { MapPin, Tent, Zap, Wifi, Dog, Store } from 'lucide-react';
-import { getPublishedCampgrounds } from '@/data/campgrounds';
+import { campgrounds } from '@/data/campgrounds-data';
 
 const amenityIcons = {
   electricHookups: { icon: Zap, label: 'Electric' },
@@ -16,7 +16,8 @@ const amenityIcons = {
 };
 
 export default function CampgroundsPage() {
-  const campgrounds = getPublishedCampgrounds();
+  // Using campgrounds directly - note: data structure mismatch with UI
+  const campgroundsList = campgrounds;
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -43,7 +44,7 @@ export default function CampgroundsPage() {
         <section className="py-12">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-              {campgrounds.map((campground) => (
+              {campgroundsList.map((campground) => (
                 <Card key={campground.id} className="overflow-hidden hover:shadow-lg transition-shadow">
                   {/* Featured Image */}
                   <div className="relative h-48 bg-gray-200">

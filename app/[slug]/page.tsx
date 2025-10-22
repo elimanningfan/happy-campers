@@ -9,14 +9,15 @@ import Header from '@/components/header';
 import Footer from '@/components/footer';
 
 interface PageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
 // Generate metadata for SEO
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const page = getPageBySlug(params.slug);
+  const { slug } = await params;
+  const page = getPageBySlug(slug);
   
   if (!page) {
     return {
@@ -48,8 +49,9 @@ export function generateStaticParams() {
     }));
 }
 
-export default function CMSPage({ params }: PageProps) {
-  const page = getPageBySlug(params.slug);
+export default async function CMSPage({ params }: PageProps) {
+  const { slug } = await params;
+  const page = getPageBySlug(slug);
 
   if (!page || page.status !== 'published') {
     notFound();

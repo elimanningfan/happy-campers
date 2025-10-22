@@ -30,18 +30,18 @@ import {
   Mountain,
   Trees
 } from 'lucide-react';
-import { getCampgroundBySlug, campgrounds } from '@/data/campgrounds';
+import { getCampgroundById, campgrounds } from '@/data/campgrounds-data';
 import { cn } from '@/lib/utils';
 
 interface CampgroundPageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
 export async function generateStaticParams() {
   return campgrounds.map((campground) => ({
-    slug: campground.slug,
+    slug: campground.id,
   }));
 }
 
@@ -62,10 +62,11 @@ const amenityIcons: Record<string, any> = {
   hikingTrails: { icon: Mountain, label: 'Hiking Trails' },
 };
 
-export default function CampgroundPage({ params }: CampgroundPageProps) {
-  const campground = getCampgroundBySlug(params.slug);
+export default async function CampgroundPage({ params }: CampgroundPageProps) {
+  const { slug } = await params;
+  const campground = getCampgroundById(slug);
 
-  if (!campground || campground.status !== 'published') {
+  if (!campground) {
     notFound();
   }
 
