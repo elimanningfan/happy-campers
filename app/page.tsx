@@ -16,10 +16,10 @@ export default function HomePage() {
       
       {/* Hero Section */}
       <section className="relative">
-        <div 
+        <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=1600&q=80')`,
+            backgroundImage: `url('/images/original-happy-campers/Bend RV Resort Camp Shoot-01.jpg')`,
           }}
         >
           <div className="absolute inset-0 bg-black/40" />
