@@ -634,6 +634,175 @@
 
 ---
 
-## Total Downloaded: 46 images
-## Categories: 15+ unique categories
+### Image 47
+**Original URL:** https://happycampersrvrentals.com/wp-content/uploads/2020/05/hc_coast.jpg
+
+**New SEO Filename:** `rv-camper-van-coastal-view-oregon-coast-adventure.jpg`
+
+**New URL:** `/images/rv-camper-van-coastal-view-oregon-coast-adventure.jpg`
+
+**Categories:** Oregon Coast, Camper Vans, Coastal Destinations, Scenic Views
+
+**Description:** Scenic coastal landscape featuring a rugged, rocky terrain leading down to a vast calm sea with a partial view of a camper van on the right side. A bicycle is mounted on the back of the camper with a folding chair set up nearby for relaxation and enjoying the view. The warm lighting suggests sunset or sunrise, casting a golden hue over the scene with partly cloudy sky adding texture. The image conveys a sense of freedom and the allure of RV travel and nature exploration along the Oregon Coast.
+
+---
+
+### Image 48
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/rv-highway-open-road.png
+
+**New SEO Filename:** `rv-desert-highway-winding-road-mountains-bend-rentals.png`
+
+**New URL:** `/images/rv-desert-highway-winding-road-mountains-bend-rentals.png`
+
+**Categories:** On the Road, Desert Landscapes, Highway Travel, Adventure, Scenic Routes
+
+**Description:** A recreational vehicle driving on a winding road through a desert landscape with dry, sparse vegetation and sagebrush. The surroundings feature mountainous background in the distance with the sky clear indicating dry and sunny weather. Perfect for illustrating RV adventures to high desert regions of Oregon and beyond accessible from Happy Campers RV rentals in Bend.
+
+---
+
+### Image 49
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/oregon-coast-sunset.png
+
+**New SEO Filename:** `oregon-coast-sunset-rock-formation-haystack-beach.png`
+
+**New URL:** `/images/oregon-coast-sunset-rock-formation-haystack-beach.png`
+
+**Categories:** Oregon Coast, Scenic Views, Sunset, Coastal Destinations
+
+**Description:** Serene coastal sunset scene with silhouetted rock formation topped by a tree against a colorful sunset sky with clouds. The foreground features wet rocky shoreline reflecting pink and orange hues of the sunset. Classic Oregon Coast scenery perfect for showcasing RV trip destinations from Bend to the Pacific.
+
+---
+
+### Image 50
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/OverheadLot.png
+
+**New SEO Filename:** `beaver-coach-sales-aerial-view-rv-dealership-bend-oregon.png`
+
+**New URL:** `/images/beaver-coach-sales-aerial-view-rv-dealership-bend-oregon.png`
+
+**Categories:** Facility, Aerial Photography, RV Fleet, Bend Location
+
+**Description:** Aerial view of Beaver Coach Sales RV dealership lot with numerous RVs and motorhomes parked in rows. American flag prominently displayed in foreground with main building and surrounding mountainous landscape in the background. Shows the professional facility where Happy Campers RV Rentals operates in Bend, Oregon.
+
+---
+
+### Image 51
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/rv-on-coastal-highway.png
+
+**New SEO Filename:** `tiffin-class-a-rv-coastal-highway-rocky-mountains-sunset.png`
+
+**New URL:** `/images/tiffin-class-a-rv-coastal-highway-rocky-mountains-sunset.png`
+
+**Categories:** On the Road, Class A RVs, Tiffin Brand, Coastal Highways, Sunset
+
+**Description:** Road winding through rocky mountainous terrain with a large Tiffin Class A motorhome traveling on it. The RV features panoramic windshield, advanced side mirrors, and modern LED headlights. The sky shows soft warm glow indicating sunset. Perfect for demonstrating luxury RV coastal highway adventures from Happy Campers.
+
+---
+
+### Image 52
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/102A5197-Enhanced-NR-scaled.jpg
+
+**New SEO Filename:** `beaver-coach-sales-team-photo-rv-service-professionals-bend.jpg`
+
+**New URL:** `/images/beaver-coach-sales-team-photo-rv-service-professionals-bend.jpg`
+
+**Categories:** Team, Staff, About Us, Professional
+
+**Description:** Group photo of seven Beaver Coach Sales team members wearing matching black polo shirts with embroidered logos and blue jeans standing in front of a luxury Newmar Class A RV in the showroom. The professional, friendly team represents the service and expertise available to Happy Campers RV rental customers in Bend, Oregon. "Service is the Secret" tagline visible.
+
+---
+
+### Image 53
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/rv-open-highway.png
+
+**New SEO Filename:** `newmar-class-a-rv-open-highway-desert-rolling-hills.png`
+
+**New URL:** `/images/newmar-class-a-rv-open-highway-desert-rolling-hills.png`
+
+**Categories:** On the Road, Class A RVs, Newmar Brand, Highway Travel, Desert Landscapes
+
+**Description:** Large white Newmar Class A motorhome with artistic black and gray swirls driving down a two-lane highway through rugged mountainous landscape. Road has clearly marked yellow lines bordered by trees, bushes, and rocky hillsides with sparse vegetation. Captured in natural sunset light with soft warm glow on horizon. Demonstrates long-distance RV travel capabilities from Happy Campers rentals.
+
+---
+
+### Image 54
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/cleaning-newmar-rv.png
+
+**New SEO Filename:** `rv-cleaning-service-newmar-london-aire-bend-oregon.png`
+
+**New URL:** `/images/rv-cleaning-service-newmar-london-aire-bend-oregon.png`
+
+**Categories:** RV Maintenance, Service, Facility, Newmar Brand
+
+**Description:** Newmar London Aire Class A motorhome being professionally washed at Beaver Coach Sales service center in Bend, Oregon. Person cleaning the RV with long brush and cleaning equipment visible. Shows the high-end luxury build with red, gray, and black exterior accents and multiple roof air conditioning units. Demonstrates professional service and care provided to Happy Campers RV rental fleet.
+
+---
+
+### Image 55
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/rv-maintenance.png
+
+**New SEO Filename:** `rv-electrical-maintenance-battery-service-bend-oregon.png`
+
+**New URL:** `/images/rv-electrical-maintenance-battery-service-bend-oregon.png`
+
+**Categories:** RV Maintenance, Service, Technical, Behind the Scenes
+
+**Description:** Technician working in the battery compartment of an RV handling electrical components and power management wires including red and black cables. Person wearing black shirt using multimeter or similar diagnostic tool. Demonstrates the professional maintenance and service capabilities at Beaver Coach Sales supporting Happy Campers RV rental fleet in Bend, Oregon.
+
+---
+
+### Image 56
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/tetons-landscape.png
+
+**New SEO Filename:** `teton-mountains-sunset-snow-peaks-wyoming-rv-destination.png`
+
+**New URL:** `/images/teton-mountains-sunset-snow-peaks-wyoming-rv-destination.png`
+
+**Categories:** Scenic Views, Mountains, National Parks, Destinations, Sunset
+
+**Description:** Stunning view of snow-covered Teton Range during sunset with mountains bathed in warm golden glow. The sky is clear and blue with sunlight casting beautiful light on the rugged peaks. Showcases National Park destinations accessible via RV travel from Happy Campers rentals in Bend, Oregon including multi-state trips to Yellowstone and Grand Teton National Parks.
+
+---
+
+### Image 57
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/cascade-mountains-highway.png
+
+**New SEO Filename:** `cascade-mountains-highway-forest-snow-peaks-oregon-scenic-route.png`
+
+**New URL:** `/images/cascade-mountains-highway-forest-snow-peaks-oregon-scenic-route.png`
+
+**Categories:** Scenic Views, Mountains, Highway Travel, Cascade Range, Oregon Routes
+
+**Description:** Scenic view of a winding road cutting through dense coniferous forest with large snow-capped Cascade Mountain peaks in the background. The mountains have a light dusting of snow illuminated by early morning sun with low-lying clouds and fog partially covering the forest. Demonstrates the spectacular scenic highways accessible with Happy Campers RV rentals exploring the Cascade Range from Bend.
+
+---
+
+### Image 58
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/friendly-happy-campers-rv-rentals-staff.png
+
+**New SEO Filename:** `happy-campers-staff-office-phone-customer-service-bend.png`
+
+**New URL:** `/images/happy-campers-staff-office-phone-customer-service-bend.png`
+
+**Categories:** Team, Staff, Customer Service, Office
+
+**Description:** Happy Campers staff member working at desk speaking on phone in the Bend, Oregon office. Computer monitor and office supplies visible with window in background. Shows the friendly customer service and professional office environment supporting Happy Campers RV rental customers.
+
+---
+
+### Image 59
+**Original URL:** https://www.happycampersrvrentals.com/wp-content/uploads/2025/03/happy_campers-rv-rentals-team.png
+
+**New SEO Filename:** `happy-campers-team-presentation-rv-education-bend-oregon.png`
+
+**New URL:** `/images/happy-campers-team-presentation-rv-education-bend-oregon.png`
+
+**Categories:** Team, Staff, Customer Education, Events
+
+**Description:** Happy Campers team member speaking into microphone during customer education presentation or event with large RV in background. Shows the comprehensive customer orientation and educational support provided to renters at Happy Campers in Bend, Oregon.
+
+---
+
+## Total Downloaded: 59 images
+## Categories: 20+ unique categories
 ## Storage: ~/public/images/scraped-images/
