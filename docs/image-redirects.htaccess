@@ -1,0 +1,128 @@
+# Happy Campers RV Rentals - Image URL Redirects
+# Created: 2025-10-22
+#
+# These 301 redirects map old WordPress image URLs to new SEO-friendly URLs
+# Place this content in your .htaccess file or use in your web server configuration
+#
+# Total Redirects: 46 images
+
+# ========================================
+# LOGOS & BRANDING
+# ========================================
+
+Redirect 301 /wp-content/uploads/2020/05/HC_Logo.png /images/happy-campers-rv-rentals-logo-horizontal.png
+Redirect 301 /wp-content/uploads/2020/05/WebsiteLogo_HC.png /images/happy-campers-logo-compact-bend-oregon.png
+Redirect 301 /wp-content/uploads/2020/05/MrHappy_300x209.png /images/happy-campers-mascot-character-bend-oregon.png
+Redirect 301 /wp-content/uploads/2020/06/HCwebsite_RVgraphic_V3-360x426.png /images/rv-rental-graphic-illustration-happy-campers.png
+Redirect 301 /wp-content/uploads/2021/03/Fire_G0C@MP.png /images/happy-campers-promotional-banner-rv-rentals.png
+Redirect 301 /wp-content/uploads/2024/10/Happy-Campgrounds-logo-large-1-e1728672212306.png /images/happy-campgrounds-logo-campground-guide.png
+Redirect 301 /wp-content/uploads/2020/07/ForestRiver_Brand3.png /images/forest-river-rv-brand-logo-partner.png
+
+# ========================================
+# RV EXTERIORS - ENTEGRA ETHOS
+# ========================================
+
+Redirect 301 /wp-content/uploads/2024/02/ethos-344x230.jpg /images/entegra-ethos-class-b-rv-rental-bend-oregon-thumb.jpg
+Redirect 301 /wp-content/uploads/2024/02/ethos-scaled.jpg /images/entegra-ethos-class-b-luxury-rv-rental-bend.jpg
+Redirect 301 /wp-content/uploads/2024/09/2024-Entegra-Ethos-20D-5-2-344x230.jpg /images/2024-entegra-ethos-20d-rv-rental-bend-thumb.jpg
+Redirect 301 /wp-content/uploads/2024/09/2024-Entegra-Ethos-20D-5-2-scaled.jpg /images/2024-entegra-ethos-20d-luxury-class-b-rv-bend-oregon.jpg
+
+# ========================================
+# RV EXTERIORS - OTHER MODELS
+# ========================================
+
+Redirect 301 /wp-content/uploads/2024/06/102A0483-344x230.jpg /images/class-b-rv-winter-rental-bend-oregon-thumb.jpg
+Redirect 301 /wp-content/uploads/2024/06/102A0483-scaled.jpg /images/class-b-rv-winter-rental-bend-oregon-mountains.jpg
+Redirect 301 /wp-content/uploads/2020/06/BecomeHappyCamper.jpg /images/fall-rv-camping-autumn-foliage-class-c-motorhome.jpg
+
+# ========================================
+# RV INTERIORS
+# ========================================
+
+Redirect 301 /wp-content/uploads/2024/09/Entegra-Ethos-interor.jpeg /images/entegra-ethos-interior-luxury-rv-rental-bend.jpeg
+
+# ========================================
+# CAMPGROUNDS & CAMPING SCENES
+# ========================================
+
+Redirect 301 /wp-content/uploads/2020/05/2U1A0711-1-1-360x204.jpg /images/rv-campground-central-oregon-camping.jpg
+Redirect 301 /wp-content/uploads/2020/05/2U1A0711-1-1.jpg /images/rv-campground-central-oregon-camping-full.jpg
+
+# ========================================
+# LIFESTYLE & ACTIVITIES
+# ========================================
+
+Redirect 301 /wp-content/uploads/2020/06/driving_3-360x212.jpg /images/rv-driving-scenic-route-central-oregon-adventure.jpg
+Redirect 301 /wp-content/uploads/2020/06/rvfriends_6-360x212.jpg /images/family-rv-camping-trip-planning-oregon.jpg
+Redirect 301 /wp-content/uploads/2020/06/skisnowboard_8-360x212.jpg /images/winter-rv-camping-skiing-snowboarding-bend-oregon.jpg
+Redirect 301 /wp-content/uploads/2020/06/petfriendly_fall_2-360x212.jpg /images/pet-friendly-rv-rental-dog-fall-camping-oregon.jpg
+Redirect 301 /wp-content/uploads/2020/06/bikerack_4-360x212.jpg /images/rv-bike-rack-outdoor-recreation-oregon-rentals.jpg
+Redirect 301 /wp-content/uploads/2020/06/musicfestival_1-360x212.jpg /images/rv-camping-music-festival-oregon-events.jpg
+Redirect 301 /wp-content/uploads/2020/06/whattoexpect_10-360x212.jpg /images/rv-rental-walkthrough-orientation-happy-campers-bend.jpg
+Redirect 301 /wp-content/uploads/2020/06/rvlifestyle_6-360x212.jpg /images/rv-lifestyle-travel-adventure-oregon-rentals.jpg
+
+# ========================================
+# DESTINATION ILLUSTRATIONS
+# ========================================
+
+Redirect 301 /wp-content/uploads/2020/06/Parks_HappyCampers.png /images/national-parks-rv-travel-illustration-family-hiking.png
+Redirect 301 /wp-content/uploads/2020/06/Vineyard_HappyCampers.png /images/oregon-wine-country-rv-trips-vineyard-illustration.png
+Redirect 301 /wp-content/uploads/2020/06/Coast_HappyCampers.png /images/oregon-coast-rv-trip-beach-family-illustration.png
+Redirect 301 /wp-content/uploads/2020/06/MusicFestivals_HappyCampers.png /images/music-festivals-rv-camping-oregon-events-illustration.png
+Redirect 301 /wp-content/uploads/2020/06/SkiTrips_HappyCampers.png /images/ski-trips-rv-rental-mt-bachelor-oregon-winter-illustration.png
+
+# ========================================
+# BLOG & CONTENT IMAGES
+# ========================================
+
+Redirect 301 /wp-content/uploads/2024/10/golfer-at-tokatee-scaled.jpeg /images/tokatee-golf-course-oregon-rv-trip-destination.jpeg
+Redirect 301 /wp-content/uploads/2024/08/untitled-13.jpg /images/rv-rental-blog-image-oregon-camping-tips.jpg
+Redirect 301 /wp-content/uploads/2024/08/pexels-markusspiske-105857-scaled.jpg /images/rv-camping-sustainability-environmental-travel.jpg
+Redirect 301 /wp-content/uploads/2024/06/102A0482-scaled.jpg /images/rv-rental-facility-bend-oregon-fleet.jpg
+Redirect 301 /wp-content/uploads/2024/07/pexels-vishnurnair-1105666-scaled.jpg /images/mountain-landscape-oregon-rv-travel-destination.jpg
+Redirect 301 /wp-content/uploads/2024/07/Shu.png /images/blog-graphic-illustration-rv-rental-tips.png
+
+# ========================================
+# TEAM & STAFF
+# ========================================
+
+Redirect 301 /wp-content/uploads/2020/06/Meet_Kristina.jpg /images/kristina-manager-happy-campers-rv-rentals-bend.jpg
+Redirect 301 /wp-content/uploads/2023/02/Perez_Gonzalez_Laura2.jpg /images/laura-team-member-happy-campers-bend-oregon.jpg
+
+# ========================================
+# FACILITY & LOCATION
+# ========================================
+
+Redirect 301 /wp-content/uploads/2020/06/102A0409-840x560.jpg /images/beaver-coach-sales-bend-oregon-facility-sign-thumb.jpg
+Redirect 301 /wp-content/uploads/2020/06/102A0409.jpg /images/beaver-coach-sales-happy-campers-sign-bend-oregon.jpg
+Redirect 301 /wp-content/uploads/2020/06/Beaver-Coach-Sales-Building-1-840x560.jpg /images/beaver-coach-sales-building-bend-oregon-rv-rentals-thumb.jpg
+Redirect 301 /wp-content/uploads/2020/06/Beaver-Coach-Sales-Building-1-scaled.jpg /images/beaver-coach-sales-facility-building-bend-oregon-happy-campers.jpg
+
+# ========================================
+# RV FLEET & INVENTORY
+# ========================================
+
+Redirect 301 /wp-content/uploads/2020/07/102A0351-840x560.jpg /images/rv-rental-fleet-happy-campers-bend-oregon-lot-thumb.jpg
+Redirect 301 /wp-content/uploads/2020/07/102A0351.jpg /images/rv-rental-fleet-inventory-happy-campers-bend-oregon.jpg
+Redirect 301 /wp-content/uploads/2020/07/102A0331-840x560.jpg /images/rv-rental-selection-happy-campers-bend-oregon-thumb.jpg
+Redirect 301 /wp-content/uploads/2020/07/102A0331.jpg /images/rv-motorhome-inventory-happy-campers-bend-oregon-rentals.jpg
+
+# ========================================
+# NOTES
+# ========================================
+#
+# Implementation Instructions:
+# 1. Copy this content into your .htaccess file in the web root
+# 2. Rename downloaded images from /public/images/scraped-images/ to /public/images/ with new SEO filenames
+# 3. Update all internal links to use new image paths
+# 4. Test redirects to ensure they work correctly
+# 5. Monitor Google Search Console for any broken image links
+#
+# SEO Benefits:
+# - Maintains link equity from existing backlinks
+# - Prevents 404 errors on old image URLs
+# - Improves image SEO with descriptive filenames
+# - Preserves Google Image Search rankings
+#
+# Total Images: 46
+# Redirect Type: 301 Permanent
